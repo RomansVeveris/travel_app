@@ -43,7 +43,7 @@ void main() {
   testWidgets('BottomNav highlights selected item', (WidgetTester tester) async {
     await tester.pumpWidget(
       MaterialApp(
-        home: Scaffold(body: MainScreen()), // ← или как у тебя точно называется
+        home: Scaffold(body: MainScreen()),
       ),
     );
 
