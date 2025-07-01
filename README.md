@@ -10,8 +10,7 @@ This is a mobile app developed with Flutter. The project mainly focuses on:
 - Uses multiple assets like images and SVG files, alongside custom fonts and backgrounds.  
 - Employs various data models (e.g., "Local Events") to easily add or modify content used across different pages.  
 - Contains reusable code fragments located in the `widgets/` folder to improve readability and maintainability.  
-- Includes pages like `plan_a_trip.dart` that implement custom UI solutions matching the original Figma design closely.  
-- Operates within a single activity where the visible content is controlled by `screen_controller.dart` in the `controllers/` folder.  
+- Includes pages like `plan_a_trip.dart` that implement custom UI solutions matching the original Figma design closely.   
 - Uses animations in `utils/animations.dart` for smooth widget appearance.  
 - Provides basic unit tests to verify the initial state and some functionality.
 
