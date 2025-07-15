@@ -18,10 +18,6 @@ This is a mobile app developed with Flutter. The project mainly focuses on:
 
 You can find the app screenshots in the `assets/screenshots/` folder.
 
-## Additional
-
-This application is currently under development. Certain functionalities dont't work or may behave unexpectedly.
-
 ## Contacts
 
 - **Author**: Romans Veveris
